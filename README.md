@@ -5,4 +5,4 @@
 
 실수를 두려워하지 말자!
 
-<img src="함께자라기.jpg">
+<img src="growWith.jpg">
